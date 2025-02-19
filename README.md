@@ -9,7 +9,7 @@ Most visuals can be obtained from the notebooks such as
 
 * `multimodal_3.ipynb` introduces multimodal data using a sparse prior
 
-To run * `mh_wikispedia.ipynb` add a data folder containing the wikispeedia data set following the repo below
+To run `mh_wikispedia.ipynb` add a data folder containing the wikispeedia data set following the repo below
 
 ## MixedTrails
 The original MixedTrails paper can be found here:
